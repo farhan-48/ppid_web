@@ -148,20 +148,18 @@
                                             </div>
                                             <div class="col-lg-12 col-sm-12">
                                                 <div class="form-group">
-                                                    <form action="" method="POST" enctype="multipart/form-data">
-                                                        <label for="identitas_pelapor">Identitas Pelapor</label>
-                                                        <div class="form-control">
-                                                            <input type="file" name="identitas_pelapor" id="identitas_pelapor" accept="image/png, image/jpeg, image/jpg, image/gif">
-                                                        </div>
+                                                    <label for="identitas_pelapor">Identitas Pelapor</label>
+                                                    <div class="form-control">
+                                                        <input type="file" name="identitas_pelapor" id="identitas_pelapor" accept="image/png, image/jpeg, image/jpg, image/gif">
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="col-lg-12 col-sm-12">
                                                 <div class="form-group">
-                                                    <form action="" method="POST" enctype="multipart/form-data">
-                                                        <label for="bukti">Dokumen Pendukung</label>
-                                                        <div class="form-control">
-                                                            <input type="file" name="bukti" id="bukti" accept="image/png, image/jpeg, image/jpg, image/gif">
-                                                        </div>
+                                                    <label for="bukti">Dokumen Pendukung</label>
+                                                    <div class="form-control">
+                                                        <input type="file" name="bukti" id="bukti" accept="image/png, image/jpeg, image/jpg, image/gif">
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
