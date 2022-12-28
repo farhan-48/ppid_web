@@ -1,15 +1,13 @@
-
-
 <div class="inner-banner inner-bg1">
     <div class="container">
         <div class="inner-title">
             <h3>SOP PENGAJUAN KEBERATAN</h3>
-                <ul>
-                    <li>
-                    <a href="<?php echo base_url('Halaman_utama')?>">HALAMAN UTAMA</a>
-                    </li>
-                    <li>SOP PENGAJUAN KEBERATAN</li>
-                </ul>
+            <ul>
+                <li>
+                    <a href="<?php echo base_url('Halaman_utama') ?>">HALAMAN UTAMA</a>
+                </li>
+                <li>SOP PENGAJUAN KEBERATAN</li>
+            </ul>
         </div>
     </div>
     <div class="inner-banner-shape">
@@ -20,7 +18,7 @@
             <img src="<?php echo base_url(); ?>assets/medizo/default/assets/img/inner-banner/inner-banner-shape2.png" alt="Images">
         </div>
     </div>
-    </div>
+</div>
 </div>
 
 <div class="case-details-area pt-100 pb-70">
@@ -29,25 +27,25 @@
             <div class="col-lg-12">
                 <div class="case-article">
                     <div class="case-details-img">
-                        <h2>SOP PENGAJUAN KEBERATAN</h2>  
-                            <table id="Product-Sale" class="table table-striped table-bordered" cellspacing="0" width="100%">
-                                <thead>      
-                                    <tr>
-                                        <th class="text-center">No</th>
-                                        <th class="text-center">SOP</th>
-                                        <th class="text-center">Opsi</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                        <tr>
-                                            <th class="text-center">1</th>
-                                            <th class="text-center">SOP blabla</th>
-                                            <th class="text-center" width="150">
-                                                <a href="<?php echo base_url('assets/medizo/default/assets/img/sk_ppid.pdf')?>" class="btn btn-icon demo-pli-pen-5 icon-lg add-tooltip">Buka File</a>
-                                            </th>
-                                        </tr>
-                                </tbody>
-                            </table>
+                        <h2>SOP PENGAJUAN KEBERATAN</h2>
+                        <table id="Product-Sale" class="table table-striped table-bordered" cellspacing="0" width="100%">
+                            <thead>
+                                <tr>
+                                    <th class="text-center">No</th>
+                                    <th class="text-center">SOP</th>
+                                    <th class="text-center">Opsi</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th class="text-center">1</th>
+                                    <th class="text-center">SOP blabla</th>
+                                    <th class="text-center" width="150">
+                                        <a href="<?php echo base_url('assets/medizo/default/assets/img/sk_ppid.pdf') ?>" class="btn btn-icon demo-pli-pen-5 icon-lg add-tooltip">Buka File</a>
+                                    </th>
+                                </tr>
+                            </tbody>
+                        </table>
                     </div>
                 </div>
             </div>

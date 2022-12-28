@@ -14,7 +14,7 @@
         <div class="shape1">
             <img src="<?php echo base_url(); ?>assets/medizo/default/assets/img/inner-banner/inner-banner-shape1.png" alt="Images">
         </div>
-        <div class="shape2">
+        <div class="shape2">`
             <img src="<?php echo base_url(); ?>assets/medizo/default/assets/img/inner-banner/inner-banner-shape2.png" alt="Images">
         </div>
     </div>
@@ -85,11 +85,11 @@
                                                 <label>Cara Memperoleh Informasi </label>
                                                 <br>
                                                 <div class="form-control h-auto">
-                                                    <input type='radio' name='cara_info' value='melihat' />1.Melihat <br>
-                                                    <input type='radio' name='cara_info' value='membaca' />2.Membaca <br>
-                                                    <input type='radio' name='cara_info' value='mendengar' />3.Mendengar <br>
-                                                    <input type='radio' name='cara_info' value='mencatat' />4.Mencatat <br>
-                                                    <input type='radio' name='cara_info' value='mendapatkan salinan informasi (hardcopy/softcopy)' />5.Mendapatkan salinan informasi (hardcopy/softcopy) <br />
+                                                    <input type='radio' name='cara_info' value='melihat' /> Melihat <br>
+                                                    <input type='radio' name='cara_info' value='membaca' /> Membaca <br>
+                                                    <input type='radio' name='cara_info' value='mendengar' /> Mendengar <br>
+                                                    <input type='radio' name='cara_info' value='mencatat' /> Mencatat <br>
+                                                    <input type='radio' name='cara_info' value='mendapatkan' /> Mendapatkan salinan informasi (hardcopy/softcopy) <br />
                                                     <div class="help-block with-errors"></div>
                                                 </div>
                                             </div>
@@ -99,11 +99,11 @@
                                                 <label>Cara Mendapatkan Salinan Informasi </label>
                                                 <br>
                                                 <div class="form-control h-auto">
-                                                    <input type='radio' name='salinan_info' value='mengambil langsung' />1.Mengambil Langsung <br>
-                                                    <input type='radio' name='salinan_info' value='kurir' />2.Kurir <br>
-                                                    <input type='radio' name='salinan_info' value='pos' />3.Pos <br>
-                                                    <input type='radio' name='salinan_info' value='faximile' />4.Faximile <br>
-                                                    <input type='radio' name='salinan_info' value='email' />5.Email <br />
+                                                    <input type='radio' name='salinan_info' value='mengambil' /> Mengambil Langsung <br>
+                                                    <input type='radio' name='salinan_info' value='kurir' /> Kurir <br>
+                                                    <input type='radio' name='salinan_info' value='pos' /> Pos <br>
+                                                    <input type='radio' name='salinan_info' value='faximile' /> Faximile <br>
+                                                    <input type='radio' name='salinan_info' value='email' /> Email <br />
                                                     <div class="help-block with-errors"></div>
                                                 </div>
                                             </div>
@@ -111,9 +111,9 @@
                                         <div class="col-lg-12 col-sm-12">
                                             <div class="form-group">
                                                 <form action="" method="POST" enctype="multipart/form-data">
-                                                    <label for="avatar">Identitas Pemohon</label>
+                                                    <label for="identitas">Identitas Pemohon</label>
                                                     <div class="form-control">
-                                                        <input type="file" name="avatar" id="avatar" accept="image/png, image/jpeg, image/jpg, image/gif">
+                                                        <input type="file" name="identitas" id="identitas" accept="image/png, image/jpeg, image/jpg, image/gif">
                                                     </div>
                                             </div>
                                         </div>
