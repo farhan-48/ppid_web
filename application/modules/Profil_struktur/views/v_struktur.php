@@ -1,15 +1,13 @@
-
-
 <div class="inner-banner inner-bg1">
     <div class="container">
         <div class="inner-title">
             <h3>STRUKTUR PPID</h3>
-                <ul>
-                    <li>
-                    <a href="<?php echo base_url('Halaman_utama')?>">HALAMAN UTAMA</a>
-                    </li>
-                    <li>STRUKTUR PPID</li>
-                </ul>
+            <ul>
+                <li>
+                    <a href="<?php echo base_url('Halaman_utama') ?>">HALAMAN UTAMA</a>
+                </li>
+                <li>STRUKTUR PPID</li>
+            </ul>
         </div>
     </div>
     <div class="inner-banner-shape">
@@ -20,7 +18,7 @@
             <img src="<?php echo base_url(); ?>assets/medizo/default/assets/img/inner-banner/inner-banner-shape2.png" alt="Images">
         </div>
     </div>
-    </div>
+</div>
 </div>
 
 
@@ -32,7 +30,7 @@
                     <div class="case-details-img">
                         <img src="<?php echo base_url(); ?>assets/medizo/default/assets/img/case-study/struktur_ppid.png" alt="Images">
                     </div>
-                    
+
                 </div>
             </div>
         </div>

@@ -1,15 +1,13 @@
-
-
 <div class="inner-banner inner-bg1">
     <div class="container">
         <div class="inner-title">
             <h3>MAKLUMAT PPID</h3>
-                <ul>
-                    <li>
-                    <a href="<?php echo base_url('Halaman_utama')?>">HALAMAN UTAMA</a>
-                    </li>
-                    <li>MAKLUMAT PPID</li>
-                </ul>
+            <ul>
+                <li>
+                    <a href="<?php echo base_url('Halaman_utama') ?>">HALAMAN UTAMA</a>
+                </li>
+                <li>MAKLUMAT PPID</li>
+            </ul>
         </div>
     </div>
     <div class="inner-banner-shape">
@@ -20,24 +18,21 @@
             <img src="<?php echo base_url(); ?>assets/medizo/default/assets/img/inner-banner/inner-banner-shape2.png" alt="Images">
         </div>
     </div>
-    </div>
 </div>
 
 
 <div class="privacy-policy-area pt-100 pb-70">
-<div class="container">
-<div class="section-title text-center">
-<span>MAKLUMAT</span>
-<h2>MAKLUMAT PPID</h2>
+    <div class="container">
+        <div class="section-title text-center">
+            <span>MAKLUMAT</span>
+            <h2>MAKLUMAT PPID</h2>
+        </div>
+        <div class="row pt-45">
+            <div class="col-lg-12">
+                <div class="single-content">
+                    <img src="<?php echo base_url(); ?>assets/medizo/default/assets/img/case-study/maklumat_ppid.png" alt="Images">
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
-<div class="row pt-45">
-<div class="col-lg-12">
-<div class="single-content">
-<img src="<?php echo base_url(); ?>assets/medizo/default/assets/img/case-study/maklumat_ppid.png" alt="Images">
-</div>
-</div>
-</div>
-</div>
-</div>
-
-

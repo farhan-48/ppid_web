@@ -26,6 +26,10 @@ class Layanan_informasi_pengajuan_permohonan_informasi extends MX_Controller
 		);
 		echo Modules::run('Template/tampilfront', $data);
 	}
+	function add_perorangan()
+	{
+		
+	}
 
 	function lembaga()
 	{
