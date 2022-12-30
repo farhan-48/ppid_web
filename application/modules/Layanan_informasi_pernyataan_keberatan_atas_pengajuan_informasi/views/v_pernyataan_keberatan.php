@@ -40,14 +40,10 @@
                                                     <input type="text" name="no_regiskeberatan" id="no_regiskeberatan" class="form-control" required data-error="Please enter your name" placeholder="Nomor Registrasi Keberatan ">
                                                     <div class="help-block with-errors"></div>
                                                 </div>
-                                            </div>
-                                            <div class="col-lg-12 col-sm-12">
                                                 <div class="form-group">
                                                     <input type="text" name="no_pendaftaran" id="no_pendaftaran" class="form-control" required data-error="Please enter your id" placeholder="Nomor Pendaftaran Permohonan Informasi">
                                                     <div class="help-block with-errors"></div>
                                                 </div>
-                                            </div>
-                                            <div class="col-lg-12 col-sm-12">
                                                 <div class="form-group">
                                                     <input type="text" name="tujuan_pengguna" id="tujuan_pengguna" class="form-control" required data-error="Please enter your id" placeholder="Tujuan Penggunaan Informasi Identitas Pemohon">
                                                     <div class="help-block with-errors"></div>
@@ -87,19 +83,19 @@
                                             <hr>
                                             <div class="col-lg-12 col-sm-12">
                                                 <div class="form-group">
-                                                    <input type="text" name="nama" id="nama" class="form-control" required data-error="Please enter your name" placeholder="Nama Lengkap">
+                                                    <input type="text" name="name" id="name" class="form-control" required data-error="Please enter your name" placeholder="Nama Lengkap">
                                                     <div class="help-block with-errors"></div>
                                                 </div>
                                             </div>
                                             <div class="col-lg-12 col-sm-12">
                                                 <div class="form-group">
-                                                    <input type="text" name="alamat" id="alamat" class="form-control" required data-error="Please enter your id" placeholder="Alamat">
+                                                    <input type="text" name="alamats" id="alamats" class="form-control" required data-error="Please enter your id" placeholder="Alamat">
                                                     <div class="help-block with-errors"></div>
                                                 </div>
                                             </div>
                                             <div class="col-lg-12 col-sm-12">
                                                 <div class="form-group">
-                                                    <input type="text" name="no_hp" id="no_hp" class="form-control" required data-error="Please enter your id" placeholder="Nomor Telephone">
+                                                    <input type="text" name="no_hpn" id="no_hpn" class="form-control" required data-error="Please enter your id" placeholder="Nomor Telephone">
                                                     <div class="help-block with-errors"></div>
                                                 </div>
                                             </div>
